@@ -1,5 +1,5 @@
 ---
-name: jpa-spec-kotlin-dsl
+name: kotlin-backend-jpa-specification
 description: >
   Build type-safe JPA Specification queries using the jpa-spec-kotlin-dsl library.
   Covers the Specification DSL, PredicateSpecification DSL, and Predicate DSL for
